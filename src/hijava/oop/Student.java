@@ -1,5 +1,6 @@
 package hijava.oop;
 
+//¡÷ºÆ
 public class Student {
 	private String studentNo;
 	private String name;
